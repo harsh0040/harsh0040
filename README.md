@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Currently freelancing with</b> &nbsp;·&nbsp; <b>Eleno</b> (AI &amp; automation consultancy) &nbsp;·&nbsp; <b>UseFoundation</b>
+  <b>Forward-Deployed Engineer</b> at <b>Foundation</b> &nbsp;·&nbsp; freelancing with <b>Eleno</b> (AI &amp; automation consultancy)
 </p>
 
 <p align="center">
@@ -34,6 +34,14 @@
 ---
 
 ## 🚀 Selected work
+
+### Foundation — Internal Delivery Agent &nbsp;·&nbsp; <sub>Forward-Deployed Engineer</sub>
+An internal delivery agent on Foundation's infrastructure that reads the team's live
+ClickUp project board and posts client-status updates to Slack — so teams spend time
+on the work instead of chasing status.
+- **Role:** FDE work end to end — the ClickUp integration, read-only scoping, the
+  data model, and the field mapping between board state and status updates.
+- **Stack:** ClickUp API · Slack · agent orchestration &nbsp;·&nbsp; _private (client work)_
 
 ### Eleno — Leadership Operations Tool
 Internal ops app for an AI &amp; automation consultancy. Tracks billable vs total
